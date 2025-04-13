@@ -1,0 +1,4 @@
+Hello, my name is Esther.
+I love learning Python.
+This is a cool challenge.
+Files are fun to work with!
