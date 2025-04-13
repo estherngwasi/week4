@@ -19,4 +19,4 @@ def read_and_modify_file(input_filename, output_filename):
         print("Error: Could not read or write the file.")
 
 # Example usage
-read_and_modify_file('C:/Users/admin/Documents/plp2025/python/week4/example.txt', 'output.txt')
+read_and_modify_file('example.txt', 'output.txt')
